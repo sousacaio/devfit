@@ -10,9 +10,9 @@ const MainStack = createStackNavigator({
     StarterStack,
     //AppTab
 }, {
-    initialRouteName:'Preload',
-    defaultNavigationOptions:{
-        headerShown:false
+    initialRouteName: 'Preload',
+    defaultNavigationOptions: {
+        headerShown: false
     }
 });
 
